@@ -117,7 +117,7 @@ classDiagram
 
 ### Result Image
 
-![PlantUML.png](Class%20Diagram%20Drawing%20Tools%20d8b7ae93a353410d9677c985a797beac/PlantUML.png)
+![PlantUML.png](PlantUML.png)
 
 ### Code
 
@@ -208,7 +208,7 @@ Trainer "1" o-- "0..*" Lion : "Log\n---------\n +List< List< String>> record\n--
 
 ### Result Image
 
-![Untitled](Class%20Diagram%20Drawing%20Tools%20d8b7ae93a353410d9677c985a797beac/Untitled.png)
+![Untitled](Drawio.png)
 
 ### Features
 
@@ -234,7 +234,7 @@ Trainer "1" o-- "0..*" Lion : "Log\n---------\n +List< List< String>> record\n--
 
 ### Result Image
 
-![Untitled.png](Class%20Diagram%20Drawing%20Tools%20d8b7ae93a353410d9677c985a797beac/Untitled%201.png)
+![Untitled.png](VisualParadigm.png)
 
 ### Features
 
@@ -264,7 +264,7 @@ Trainer "1" o-- "0..*" Lion : "Log\n---------\n +List< List< String>> record\n--
 
 ### Result Image
 
-![excalidraw.png](Class%20Diagram%20Drawing%20Tools%20d8b7ae93a353410d9677c985a797beac/excalidraw.png)
+![excalidraw.png](excalidraw.png)
 
 ### Features
 
@@ -290,7 +290,7 @@ Trainer "1" o-- "0..*" Lion : "Log\n---------\n +List< List< String>> record\n--
 
 ### Result Image
 
-![tldraw.png](Class%20Diagram%20Drawing%20Tools%20d8b7ae93a353410d9677c985a797beac/tldraw.png)
+![tldraw.png](tldraw.png)
 
 ### Features
 
